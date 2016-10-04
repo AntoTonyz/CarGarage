@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarGarage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_booking">Booking</string>
+    <string name="title_activity_business_info">BusinessInfo</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_employees">Employees</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_rates">Rates</string>
+    <string name="title_activity_save_profile">SaveProfile</string>
+    <string name="title_activity_services">Services</string>
+</resources>
